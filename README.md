@@ -4,5 +4,5 @@ The official Emotiq positioning paper is available as a [small preview][1] and [
 
 Please join us in our [Telegram group](https://t.me/emotiq_users).
 
-[1]: wp_emotiq_whitepaper_preview.pdf
+[1]: https://drive.google.com/file/d/16S3vbiAvb0CeL6LZYyFS54qag__vJ-OD/view?usp=sharing
 [2]: https://drive.google.com/file/d/1UwkRzAmMTu_bCfSPeijPQBP45OeMYWOn/view?usp=sharing
