@@ -102,7 +102,8 @@ Emotiq will follow strict KYC/AML procedures during all phases of the TGE. Funds
 * Build a world-class in-house research team; 
 * Explore the different implementations of smart contract languages and their usability, to accelerate blockchain adoption across the mass-market and enterprise; and, 
 * Provide venture funding for early projects on the Emotiq blockchain.
-* Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. Its vision is ambitious, with equally ambitious goals.
+
+Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. Its vision is ambitious, with equally ambitious goals.
 
 The pre-TGE (private sale) will raise $15MM from institutional and large private contributors. It will be limited to two weeks and start on February 13. The public TGE will commence three to four months after, and will raise at least $69MM (at a per-token price at least 15% greater than that of the private TGE). Combined, the TGEs are intended to raise $86-100MM.
 
