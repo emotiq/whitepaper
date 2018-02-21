@@ -125,7 +125,7 @@ Emotiq will set up a temporary ERC20 token within 30-60 days after concluding th
 
 * Strongly consistent, public blockchain; PBFT atop collective signing (CoSi); open consensus group membership; two parallel blockchains:
   * primary (keyblocks, Proof-of-Stake)
-  * secondary (microblocks, transaction commits with collective signature**
+  * secondary (microblocks, transaction commits with collective signature)
 * UTXO model
 * Confidential transactions and privacy via Bulletproofs
 * Bias-resistant distributed randomness protocol
