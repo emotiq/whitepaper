@@ -210,7 +210,7 @@ Emotiq’s development will continue – and accelerate – beyond launch.
 * **Emotiq University**. We will develop a comprehensive blockchain education and developer marketing program to expand the ecosystem and facilitate building applications on top of the Emotiq platform.
 * **Enterprise**. Emotiq will provide the tools for the development of secure and scalable enterprise applications.
 * **Everything else**. We will not stop until Emotiq is the most powerful, scalable, and accessible blockchain. With formidable foundations, the future is bright.
-* 
+
 # 8. Conclusion
 
 Emotiq presents a unique opportunity. Every technology goes through stages. The iPhone was not the first smartphone, and yet it delivered smartphones to the mass market. Emotiq is not the first blockchain, and yet it delivers a new standard of blockchain, with smart contracts programmable by everyone – interactively, and in plain English.
