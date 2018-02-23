@@ -147,7 +147,7 @@ Tokens will be purchased in ETH. The price per token will be shown at the time o
 * There is no lockup for seed or private sale contributors.
 * Any tokens unsold after the TGE will be kept in reserve by Emotiq and sold in small quarterly batches on the open market, to avoid drastically affecting market stability.
 
-Team tokens will be used for promotional events, bounties, and giveaways, to expand the Emotiq community, generate publicity, and incentivise active participation. 
+Team tokens will be used for promotional events, bounties, and giveaways, to expand the Emotiq community, generate publicity, and incentivise active community participation. 
 
 Emotiq will set up a temporary ERC20 token within 30-60 days after concluding the TGE. The lockup period will start from the time that the temporary ERC20 token is released. Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the end of 2018, at which point the temporary ERC20 token will be converted to EMTQ, the native Emotiq token. Emotiq will endeavor to ensure that both the temporary ERC20 and the EMTQ tokens will be listed on third-party exchanges. Listing on exchanges is beyond the control of Emotiq, however, and cannot be guaranteed.
 
@@ -208,7 +208,7 @@ Emotiq’s development will continue – and accelerate – beyond launch.
 
 * **User-friendly UI**. We will develop an interactive, user-friendly GUI for Ring and a development UI for the Emotiq blockchain, with easy access to application development tools.
 * **Purging of old transactions**. With the blockchain’s growth, and Emotiq’s anticipated growth, it will be necessary to purge old transactions. We will develop a cryptographically-secure way to do so.
-* **World-class research team**. We will build an in-house team of top Ph.Ds and industry leaders in distributed computing and cryptography, and collaborate with world class universities to access, develop, and implement cutting-edge research.
+* **World-class research team**. We will build an in-house team of top Ph.Ds and industry leaders in distributed computing and cryptography, and collaborate with world-class universities to access, develop, and implement cutting-edge research.
 * **Emotiq University**. We will develop a comprehensive blockchain education and developer marketing program to expand the ecosystem and facilitate building applications on top of the Emotiq platform.
 * **Enterprise**. Emotiq will provide the tools for the development of secure and scalable enterprise applications.
 * **Everything else**. We will not stop until Emotiq is the most powerful, scalable, and accessible blockchain. With formidable foundations, the future is bright.
