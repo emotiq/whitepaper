@@ -210,7 +210,7 @@ Emotiq’s development will continue – and accelerate – beyond launch.
 
 * **User-friendly UI**. We will develop an interactive, user-friendly GUI for Ring and a development UI for the Emotiq blockchain, with easy access to application development tools.
 * **Purging of old transactions**. With the blockchain’s growth, and Emotiq’s anticipated growth, it will be necessary to purge old transactions. We will develop a cryptographically-secure way to do so.
-* **World-class research team**. We will build an in-house team of top Ph.Ds and industry leaders in distributed computing and cryptography, and collaborate with world class universities to access, develop, and implement cutting-edge research.
+* **World-class research team**. We will build an in-house team of top Ph.Ds and industry leaders in distributed computing and cryptography, and collaborate with world-class universities to access, develop, and implement cutting-edge research.
 * **Emotiq University**. We will develop a comprehensive blockchain education and developer marketing program to expand the ecosystem and facilitate building applications on top of the Emotiq platform.
 * **Enterprise**. Emotiq will provide the tools for the development of secure and scalable enterprise applications.
 * **Everything else**. We will not stop until Emotiq is the most powerful, scalable, and accessible blockchain. With formidable foundations, the future is bright.
