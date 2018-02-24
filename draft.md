@@ -124,11 +124,13 @@ Emotiq, with its in-built scaling capability, easy smart contract access, and pa
 
 # 5. Token Generation Event
 
-Emotiq plans to raise $100MM (million) in a two-phase token generation event (TGE). The TGE target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. In total, Emotiq will generate one billion EMTQ tokens, distributed as follows:
+# New token sales plan
+
+Emotiq plans to raise $60M (million) in a two-phase token generation event (TGE). The TGE target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. In total, Emotiq will generate one billion EMTQ tokens, distributed as follows:
 * 15% sold to seed contributors (completed Dec 2017);
-* 10% sold during the pre-TGE (private);
+* 10% sold during the pre-TGE (private sale);
 * 40% sold during future TGEs, including the public TGE; and,
-* 35% to be held by the Emotiq team.
+* 35% to be held by the Emotiq team, to be used as detailed later in this paper.
 
 Emotiq will follow strict KYC/AML procedures during all phases of the TGE. Funds raised during the TGE will be used to, among other things:
 * Expand the the Emotiq ecosystem through educational programs;
@@ -138,16 +140,18 @@ Emotiq will follow strict KYC/AML procedures during all phases of the TGE. Funds
 
 Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. Its vision is ambitious, with equally ambitious goals.
 
-The pre-TGE (private sale) will raise $15MM from institutional and large private contributors. It will be limited to two weeks and start on February 13. The public TGE will commence three to four months after, and will raise at least $69MM (at a per-token price at least 15% greater than that of the private TGE). Combined, the TGEs are intended to raise $86-100MM.
+The pre-TGE I (private sale I) will raise $10M from institutional and large private contributors. It will be limited to two weeks and follow a strict selection process. Single contributions will be limited to $500k (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g. promotion, publicity, exchange access, etc. The public TGE will commence 3-4 months after the private sale, and will raise at most $48M (at a per-token price at least 35% greater than that of pre-TGE I). Combined, the TGEs are intended to raise $60M.
 
-Tokens will be purchased in ETH. The price per token will be shown at the time of purchase and will be linked to the current ETH/USD exchange rate. During the pre-TGE, the price will be equivalent to $0.15 per token. The price for the public TGE will be at least 15% higher.
+Tokens will be purchased in ETH. There will be a single price per token that will be determined at the end of the pre-TGE I and public TGE respectively and will be linked to the current ETH/USD exchange rate. During pre-TGE I, the price will be equivalent to $0.07 per token. The price for the public TGE will be at least 35% higher.
 
 * Team tokens will be locked up for 18 months.
-* Team tokens used for bounties will not be locked up.
-* There is no lockup for seed or private sale contributors.
-* Any tokens unsold after the TGE will be kept in reserve by Emotiq and sold in small quarterly batches on the open market, to avoid drastically affecting market stability.
+* Emotiq will set aside a token reserve, to be used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
+* There will be no lockup fo the above reserve tokens.
+* There is a 12-month lockup for seed contributors.
+* There’s a 50% and 6-month lockup for pre-TGE I contributors.
+* Any tokens unsold after the TGE (all phases) will be kept in reserve by Emotiq, to be used at the discretion of the team, and may be sold in small quarterly batches on the open market, to avoid drastically affecting market stability.
 
-Emotiq will set up a temporary ERC20 token within 30-60 days after concluding the TGE. The lockup period will start from the time that the temporary ERC20 token is released. Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the end of 2018, at which point the temporary ERC20 token will be converted to EMTQ, the native Emotiq token. Emotiq will endeavor to ensure that both the temporary ERC20 and the EMTQ tokens will be listed on third-party exchanges. Listing on exchanges is beyond the control of Emotiq, however, and cannot be guaranteed.
+Emotiq will set up a temporary ERC20 token within 30-60 days after concluding the public TGE. All lockup periods will start from the time that the temporary ERC20 token is released. Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the end of 2018, at which point the temporary ERC20 token will be converted to EMTQ, the native Emotiq token. Emotiq will endeavor to ensure that both the temporary ERC20 and the EMTQ tokens will be listed on third-party exchanges. Listing on exchanges is beyond the control of Emotiq, however, and cannot be guaranteed.
 
 # 6. Roadmap
 
