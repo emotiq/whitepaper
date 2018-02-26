@@ -55,7 +55,8 @@ Emotiq also features UTXO, or unspent transaction outputs, and a Proof-of-Stake 
 UTXO was first introduced by Bitcoin and, unlike Ethereum, aggregates spent and unspent coins, available across multiple wallets, into a single balance. Not only does UTXO offer simplicity, but also drastically increases Emotiq’s scaling capability, by enabling transactions to be processed independently and in parallel.
 
 ### Non-Interactive Zero-Knowledge Proofs
-Zero-knowledge proofs are Emotiq’s privacy pillar. Like Bitcoin, Emotiq uses UTXO. Unlike Bitcoin, however, Emotiq uses zero-knowledge proofs to ensure transaction amounts, among other things, are not recorded in the public ledger. For example, although blockchain addresses are represented by random strings, it is currently possible for mapping software to crawl Bitcoin’s ledger for spent and unspent (UTXO) coins, to identify the transactions of a single private key and determine a holder’s total wealth in Bitcoin.
+
+Zero-knowledge proofs are Emotiq’s privacy pillar. Like Bitcoin, Emotiq uses UTXO. Unlike Bitcoin, however, Emotiq uses zero-knowledge proofs to ensure transaction amounts, among other things, are not visible in the public ledger. For example, although blockchain addresses are represented by random strings, it is currently possible for mapping software to crawl Bitcoin’s ledger for spent and unspent (UTXO) coins, to identify the transactions of a single private key and determine a holder’s total wealth in Bitcoin.
 
 While non-interactive zero-knowledge proofs do not prevent such transaction graph analyses, they prevent the tracing party from seeing the amounts being transferred.
 
@@ -200,6 +201,11 @@ Emotiq will set up a temporary ERC20 token within 30-60 days after concluding th
 
 ## Q4/2018
 
+** Further improvements:**
+
+* MimbleWimble implementation, including secure purging of old and used transactions
+* User-friendly UI for Ring and Emotiq development tools
+
 **Mainnet**
 
 **Native EMTQ token**
@@ -208,8 +214,6 @@ Emotiq will set up a temporary ERC20 token within 30-60 days after concluding th
 
 Emotiq’s development will continue – and accelerate – beyond launch.
 
-* **User-friendly UI**. We will develop an interactive, user-friendly GUI for Ring and a development UI for the Emotiq blockchain, with easy access to application development tools.
-* **Purging of old transactions**. With the blockchain’s growth, and Emotiq’s anticipated growth, it will be necessary to purge old transactions. We will develop a cryptographically-secure way to do so.
 * **World-class research team**. We will build an in-house team of top Ph.Ds and industry leaders in distributed computing and cryptography, and collaborate with world-class universities to access, develop, and implement cutting-edge research.
 * **Emotiq University**. We will develop a comprehensive blockchain education and developer marketing program to expand the ecosystem and facilitate building applications on top of the Emotiq platform.
 * **Enterprise**. Emotiq will provide the tools for the development of secure and scalable enterprise applications.
