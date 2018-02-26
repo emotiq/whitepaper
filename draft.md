@@ -204,6 +204,7 @@ Emotiq will set up a temporary ERC20 token within 30-60 days after concluding th
 ** Further improvements:**
 
 * MimbleWimble implementation, including secure purging of old and spent transactions
+* Real-time trust-but-verify transaction validation
 * User-friendly UI for Ring and Emotiq development tools
 
 **Mainnet**
