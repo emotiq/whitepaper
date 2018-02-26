@@ -203,7 +203,7 @@ Emotiq will set up a temporary ERC20 token within 30-60 days after concluding th
 
 ** Further improvements:**
 
-* MimbleWimble implementation, including secure purging of old and used transactions
+* MimbleWimble implementation, including secure purging of old and spent transactions
 * User-friendly UI for Ring and Emotiq development tools
 
 **Mainnet**
@@ -214,6 +214,7 @@ Emotiq will set up a temporary ERC20 token within 30-60 days after concluding th
 
 Emotiq’s development will continue – and accelerate – beyond launch.
 
+* **Integration with hardware wallets**. We will work with hardware wallet vendors to support the native EMTQ token.
 * **World-class research team**. We will build an in-house team of top Ph.Ds and industry leaders in distributed computing and cryptography, and collaborate with world-class universities to access, develop, and implement cutting-edge research.
 * **Emotiq University**. We will develop a comprehensive blockchain education and developer marketing program to expand the ecosystem and facilitate building applications on top of the Emotiq platform.
 * **Enterprise**. Emotiq will provide the tools for the development of secure and scalable enterprise applications.
