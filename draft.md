@@ -268,7 +268,7 @@ Chief Wordsmith
 Kieran has written for the market’s leading tech companies and start-ups, and has been a core contributor to numerous ground-breaking blockchain projects. As a writer by habit and trade, he specializes in creating stories and brand identities for ‘edge companies’ – those innovating in uncharted spaces and offering new solutions to legacy problems. This naturally led him to focus on blockchain-based solutions, and specifically to Emotiq.
 
 **Emma Cooper**
-Community Wrangler and Cat Herder
+Global Community Manager
 
 Emma is the Community Manager for Emotiq.  Prior to joining the team, Emma worked for many years in front-line counterterrorism for the US Department of Homeland Security, before which she was a lawyer in the US, focusing primarily on private placements and corporate law.
 
