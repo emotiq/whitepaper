@@ -145,7 +145,7 @@ Tokens will be purchased in ETH. There will be a single price per token determin
 
 * Team tokens will be locked up for 18 months.
 * Emotiq will set aside a token reserve, to be used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
-* There will be no lockup fo the above reserve tokens.
+* There will be no lockup for the reserve tokens.
 * There will be a 12-month lockup for seed contributors.
 * There will be a 6-month lockup for 50% of pre-TGE I contributor tokens.
 * Any tokens unsold after the TGE (all phases) will be kept in reserve by Emotiq, to be used at the discretion of the team, and may be sold in small quarterly batches on the open market, to avoid drastically affecting market stability.
