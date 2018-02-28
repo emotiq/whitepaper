@@ -146,8 +146,8 @@ Tokens will be purchased in ETH. There will be a single price per token determin
 * Team tokens will be locked up for 18 months.
 * Emotiq will set aside a token reserve, to be used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
 * There will be no lockup fo the above reserve tokens.
-* There is a 12-month lockup for seed contributors.
-* There’s a 50% and 6-month lockup for pre-TGE I contributors.
+* There will be a 12-month lockup for seed contributors.
+* There will be a 6-month lockup for 50% of pre-TGE I contributor tokens.
 * Any tokens unsold after the TGE (all phases) will be kept in reserve by Emotiq, to be used at the discretion of the team, and may be sold in small quarterly batches on the open market, to avoid drastically affecting market stability.
 
 Emotiq will set up a temporary ERC20 token within 30-60 days after concluding the public TGE. All lockup periods will start from the time that the temporary ERC20 token is released. Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the end of 2018, at which point the temporary ERC20 token will be converted to EMTQ, the native Emotiq token. Emotiq will endeavor to ensure that both the temporary ERC20 and the EMTQ tokens will be listed on third-party exchanges. Listing on exchanges is beyond the control of Emotiq, however, and cannot be guaranteed.
