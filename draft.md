@@ -141,7 +141,7 @@ Emotiq will follow strict KYC/AML procedures during all phases of the TGE. Funds
 
 Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. Its vision is ambitious, with equally ambitious goals.
 
-The pre-TGE I (private sale I) will raise $10M from institutional and large private contributors. It will be limited to two weeks and follow a strict selection process. Single contributions will be limited to $500k (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc. The public TGE will commence 3-4 months after the private sale, and will raise at most $48M (at a per-token price at least 35% greater than that of pre-TGE I). Combined, the TGEs are intended to raise $60M.
+The pre-TGE I (private sale I) will raise $10M (million) from institutional and large private contributors. It will be limited to two weeks and follow a strict selection process. Single contributions will have a minimum of $500K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc. The public TGE will commence 3-4 months after the private sale, and will raise at most $48M (at a per-token price at least 35% greater than that of pre-TGE I). Combined, the TGEs are intended to raise $60M.
 
 Tokens will be purchased in ETH. There will be a single price per token that will be determined at the end of the pre-TGE I and public TGE respectively and will be linked to the current ETH/USD exchange rate. During pre-TGE I, the price will be equivalent to $0.07 per token. The price for the public TGE will be at least 35% higher.
 
