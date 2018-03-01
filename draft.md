@@ -123,6 +123,10 @@ Smart contract creators place oracles as pre-built components into their ‘Lego
 
 Emotiq, with its in-built scaling capability, easy smart contract access, and partial compatibility with Solidity, is designed to appeal to a broad spectrum of users – both those served by current solutions, but who desire more, and those that have hoped for a more scalable and easy-to-use blockchain. Its unique features and functionality will begin a ‘snowball effect’; as adoption increases, so too will its functionality (e.g., with an ever-expanding oracle asset repository).
 
+## 4.5 Implementation details 
+
+Emotiq will release a technical paper (yellowpaper) with full implementation details in the next 1-2 months.
+
 # 5. Token Generation Event
 
 Emotiq plans to raise $60M (million) in a two-phase token generation event (TGE). The TGE target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. In total, Emotiq will generate one billion EMTQ tokens, distributed as follows:
@@ -139,13 +143,12 @@ Emotiq will follow strict KYC/AML procedures during all phases of the TGE. Funds
 
 Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. Its vision is ambitious, with equally ambitious goals.
 
-The pre-TGE I (private sale I) will raise $10M (million) from institutional and large private contributors. It will be limited to two weeks and follow a strict selection process. Single contributions will have a minimum of $500K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc. The public TGE will commence 3-4 months after the private sale, and will raise at most $48M (at a per-token price at least 35% greater than that of pre-TGE I). Combined, the TGEs are intended to raise $60M.
+The pre-TGE I (private sale I) will raise $10M (million) from institutional and large private contributors and will follow a strict selection process. Single contributions will have a minimum of $500K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc. The public TGE will commence 3-4 months after the private sale, and will raise at most $48M (at a per-token price at least 35% greater than that of pre-TGE I). Combined, the TGEs are intended to raise $60M.
 
 Tokens will be purchased in ETH. There will be a single price per token determined at the end of the pre-TGE I and public TGE respectively, which will be linked to the current ETH/USD exchange rate. During pre-TGE I, the price will be equivalent to $0.07 per token. The price for the public TGE will be at least 35% higher.
 
 * Team tokens will be locked up for 18 months.
-* Emotiq will set aside a token reserve, to be used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
-* There will be no lockup for the reserve tokens.
+* Emotiq will set aside a token reserve which will be 100% used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
 * There will be a 12-month lockup for seed contributors.
 * There will be a 6-month lockup for 50% of pre-TGE I contributor tokens.
 * Any tokens unsold after the TGE (all phases) will be kept in reserve by Emotiq, to be used at the discretion of the team, and may be sold in small quarterly batches on the open market, to avoid drastically affecting market stability.
