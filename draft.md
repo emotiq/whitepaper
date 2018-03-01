@@ -6,7 +6,7 @@ In pursuit of practical applications, however, we have fallen short of practical
 
 We have a unique opportunity to define the blockchain, and provide an answer to its unresolved challenges of scalability, privacy, and accessibility. In this paper, we discuss each of these challenges and present Emotiq – a scalable, private, natural blockchain – as the solution.
 
-# 1. Intoduction
+# 1. Introduction
 
 Emotiq is a powerful, decentralized blockchain with Proof-of-Stake (PoS) consensus and natural language smart contracts. Emotiq is built on OmniLedger – a distributed ledger conceived by researchers at Switzerland’s École Polytechnique Fédérale de Lausanne (EPFL) that provides horizontal scalability and VISA® and Mastercard®-level throughput, at thousands of transactions per second.
 
