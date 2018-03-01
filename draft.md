@@ -125,31 +125,29 @@ Emotiq, with its in-built scaling capability, easy smart contract access, and pa
 
 # 5. Token Generation Event
 
-# New token sales plan
-
 Emotiq plans to raise $60M (million) in a two-phase token generation event (TGE). The TGE target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. In total, Emotiq will generate one billion EMTQ tokens, distributed as follows:
 * 15% sold to seed contributors (completed Dec 2017);
-* 10% sold during the pre-TGE (private sale);
-* 40% sold during future TGEs, including the public TGE; and,
+* 14% sold during the pre-TGE (private sale);
+* 36% sold during future TGEs, including the public TGE; and
 * 35% to be held by the Emotiq team, to be used as detailed later in this paper.
 
 Emotiq will follow strict KYC/AML procedures during all phases of the TGE. Funds raised during the TGE will be used to, among other things:
 * Expand the the Emotiq ecosystem through educational programs;
 * Build a world-class in-house research team;
-* Explore the different implementations of smart contract languages and their usability, to accelerate blockchain adoption across the mass-market and enterprise; and,
+* Explore the different implementations of smart contract languages and their usability, to accelerate blockchain adoption across the mass-market and enterprise; and
 * Provide venture funding for early projects on the Emotiq blockchain.
 
 Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. Its vision is ambitious, with equally ambitious goals.
 
 The pre-TGE I (private sale I) will raise $10M (million) from institutional and large private contributors. It will be limited to two weeks and follow a strict selection process. Single contributions will have a minimum of $500K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc. The public TGE will commence 3-4 months after the private sale, and will raise at most $48M (at a per-token price at least 35% greater than that of pre-TGE I). Combined, the TGEs are intended to raise $60M.
 
-Tokens will be purchased in ETH. There will be a single price per token that will be determined at the end of the pre-TGE I and public TGE respectively and will be linked to the current ETH/USD exchange rate. During pre-TGE I, the price will be equivalent to $0.07 per token. The price for the public TGE will be at least 35% higher.
+Tokens will be purchased in ETH. There will be a single price per token determined at the end of the pre-TGE I and public TGE respectively, which will be linked to the current ETH/USD exchange rate. During pre-TGE I, the price will be equivalent to $0.07 per token. The price for the public TGE will be at least 35% higher.
 
 * Team tokens will be locked up for 18 months.
 * Emotiq will set aside a token reserve, to be used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
-* There will be no lockup fo the above reserve tokens.
-* There is a 12-month lockup for seed contributors.
-* There’s a 50% and 6-month lockup for pre-TGE I contributors.
+* There will be no lockup for the reserve tokens.
+* There will be a 12-month lockup for seed contributors.
+* There will be a 6-month lockup for 50% of pre-TGE I contributor tokens.
 * Any tokens unsold after the TGE (all phases) will be kept in reserve by Emotiq, to be used at the discretion of the team, and may be sold in small quarterly batches on the open market, to avoid drastically affecting market stability.
 
 Emotiq will set up a temporary ERC20 token within 30-60 days after concluding the public TGE. All lockup periods will start from the time that the temporary ERC20 token is released. Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the end of 2018, at which point the temporary ERC20 token will be converted to EMTQ, the native Emotiq token. Emotiq will endeavor to ensure that both the temporary ERC20 and the EMTQ tokens will be listed on third-party exchanges. Listing on exchanges is beyond the control of Emotiq, however, and cannot be guaranteed.
@@ -235,7 +233,7 @@ CEO, The Buck Stops With Me!
 Joel is a seasoned hacker and blockchain pioneer.  He started his career on Wall Street and brings twenty-five years of diverse software engineering and management experience to Emotiq.  Joel was previously Chief Technology Officer at a Top 100 cryptocurrency and blockchain company, where he earned a reputation within the community for his fearsome execution power.  Joel has acted as Director of Prime Brokerage Technology at Deutsche Bank, has run offshore development teams, and has built many scalable and fault tolerant systems over the years.  He now smashes technological boundaries and ventures deep into the unexplored frontiers of crypto to bring unique opportunities to Emotiq contributors.
 
 **Vladimir Lebedev**
-Chief Operating Officer
+VP of Engineering
 
 Vladimir has over twenty-five years of experience in managing technology in fintech, telecom, and media companies. His pioneering credits include creating the first FidoNet node in Soviet Union, the first remote banking application using asymmetric keys cryptography in Russia, and the first ISP in Western Siberia. Vladimir was CTO of the Russian stock exchange, where he created its trading system and network infrastructure. Vladimir has held executive roles at VEON (a telecom company with over two hundred millions subscribers), Sberbank (the biggest bank in Eastern Europe), Moscow City Telephone Network, Orange Business Services, Lucent Technologies, and Mail.Ru Group (the biggest Internet-media company in Russia).  Over his career, he has led and successfully delivered many cutting-edge projects, in addition to launching his own companies, CPM and Cybertonica.
 
@@ -278,6 +276,11 @@ Emma is the Community Manager for Emotiq.  Prior to joining the team, Emma worke
 PR Maven
 
 Anna is a proactive, dedicated, and detail-oriented corporate communications practitioner with extensive public relations experience in Europe and Canada.  She has worked on projects in industries as diverse as finance, sporting events, and film.
+
+**Wen Qiang**
+China Community Manager
+
+Wen is the China Community Manager for Emotiq. With a deep knowledge of the Chinese cryptocurrency space and thorough understanding of blockchain projects, he provides the Emotiq team with expert regional advice, in addition to offering Chinese language support across all of Emotiq's social media channels.
 
 # 10. Legal Disclaimer
 
