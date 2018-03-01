@@ -87,7 +87,7 @@ Ring simplifies smart contracts. Like Zork, the adventure-based text computer ga
 
 ## 3.1 Ring VM
 
-The Ring VM runs smart contracts written in the native Ring language as well as most, if not all, Ethereum contracts machine-translated from Solidity. Those who program by trade may be well-served by Solidity, but want to leverage Emotiq’s usability, functionality, or scalability.
+The Ring VM runs smart contracts written in the native Ring language as well as most, if not all, Ethereum contracts machine-translated from Solidity. Those who program by trade may be well-served by Solidity, but may want to leverage Emotiq’s usability, functionality, or scalability.
 
 The Ring VM is a sandbox that enables Emotiq to experiment with smart contract implementations and users to explore and preview smart contracts, interactively, prior to committing them to the blockchain.
 
@@ -123,7 +123,7 @@ Smart contract creators place oracles as pre-built components into their ‘Lego
 
 Emotiq, with its in-built scaling capability, easy smart contract access, and partial compatibility with Solidity, is designed to appeal to a broad spectrum of users – both those served by current solutions, but who desire more, and those that have hoped for a more scalable and easy-to-use blockchain. Its unique features and functionality will begin a ‘snowball effect’; as adoption increases, so too will its functionality (e.g., with an ever-expanding oracle asset repository).
 
-## 4.5 Implementation details 
+## 4.5 Implementation details
 
 Emotiq will release a technical paper (yellowpaper) with full implementation details in the next 1-2 months.
 
