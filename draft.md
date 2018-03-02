@@ -253,7 +253,7 @@ Shannon is a systems engineer who enjoys working on multidisciplinary projects. 
 **Paul Tarvydas**
 Electronics and Microprocessor Guru
 
-Paul’s career has spanned three decades of working in microprocessor electronics, compiler and operating system design, and running his own highly-successful software consultancy.  He has taken part in projects with companies such as IBM Canada, Mitel Corp, Cognos, and several start-ups, including Design Recovery Inc., Innovative Systems Group, JetLetter, Sable Technologies, and Alacrity Inc.  Paul has written papers for the ACM and IEEE on techniques for optimizing concurrency, and has open-sourced his work on converting diagrams to code using AI techniques.  Paul’s research interests include software engineering, visual languages, diagrammatic languages, and reactive software.  Paul has been working at Emotiq AG since January 2018.
+Paul’s career has spanned three decades of working in microprocessor electronics, compiler and operating system design, and running his own highly-successful software consultancy.  He has taken part in projects with companies such as IBM Canada, Mitel Corp, Cognos, and several start-ups, including Design Recovery Inc., Innovative Systems Group, JetLetter, Sable Technologies, and Alacrity Inc.  Paul has written papers for the ACM and IEEE on techniques for optimizing concurrency, and has open-sourced his work on converting diagrams to code using AI techniques.  Paul’s research interests include software engineering, visual languages, diagrammatic languages, and reactive software. 
 
 **Mark David**
 Senior Software Architect
