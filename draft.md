@@ -133,13 +133,13 @@ Emotiq will release a technical paper (yellowpaper) with full implementation det
 
 # 5. Token Generation Event
 
-Emotiq plans to raise $60M (million) in  a combination of a private sale and  a public token generation event (TGE). The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. Emotiq will generate one billion EMTQ tokens, distributed as follows:
+Emotiq plans to raise $60M (million) through the combination of a private sale and a public token generation event (TGE). The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. Emotiq will generate one billion EMTQ tokens, distributed as follows:
 * 15% sold to seed contributors (completed Dec 2017);
 * 14% sold during the pre-TGE (private sale);
 * 36% sold during the public TGE; and
 * 35% to be held by the Emotiq team, to be used as detailed later in this paper.
 
-Emotiq will follow strict KYC/AML procedures during all phases of the fundraising process, with funds used to, among other things:
+Emotiq will follow strict KYC/AML procedures during all phases of fundraising, with funds used to, among other things:
 * Expand the the Emotiq ecosystem through educational programs;
 * Build a world-class in-house research team;
 * Explore the different implementations of smart contract languages and their usability, to accelerate blockchain adoption across the mass-market and enterprise; and
@@ -151,7 +151,7 @@ The private sale will raise $10M (million) from institutional and large private 
 
 Tokens will be purchased in ETH, with the ETH/USD exchange rate to be determined at the end of the private sale. During the private sale, the price will be equivalent to $0.07 per token.
 
-Emotiq will also conduct the public TGE on June 15, 2018 with the aim of raising $48M (million) from the public at a per token price of $0.1333. The number of EMTQ per ETH will be published 1 hour before the public TGE begins and will be based on the ETH/USD exchange rate at that time.
+Emotiq will also conduct a public TGE on June 15, 2018, with the aim of raising $48M (million) at a per-token price of $0.1333. The number of EMTQ per ETH will be published 1 hour before the public TGE begins and will be based on the ETH/USD exchange rate at that time.
 
 Combined, the private sale and public TGE are intended to raise $60M.
 
