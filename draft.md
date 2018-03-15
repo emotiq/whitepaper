@@ -139,7 +139,7 @@ Emotiq plans to raise $60M (million) through the combination of a private sale a
 * 36% sold during the public TGE; and
 * 35% to be held by the Emotiq team, to be used as detailed later in this section.
 
-Emotiq will follow strict KYC/AML procedures during all phases of fundraising, with funds used to, among other things:
+Emotiq will follow strict KYC/AML procedures during both stages of fundraising, with funds used to, among other things:
 * Expand the the Emotiq ecosystem through educational programs;
 * Build a world-class in-house research team;
 * Explore the different implementations of smart contract languages and their usability, to accelerate blockchain adoption across the mass-market and enterprise; and
