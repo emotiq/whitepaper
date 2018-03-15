@@ -137,7 +137,7 @@ Emotiq plans to raise $60M (million) through the combination of a private sale a
 * 15% sold to seed contributors (completed Dec 2017);
 * 14% sold during the private sale;
 * 36% sold during the public TGE; and
-* 35% to be held by the Emotiq team, to be used as detailed later in this paper.
+* 35% to be held by the Emotiq team, to be used as detailed later in this section.
 
 Emotiq will follow strict KYC/AML procedures during all phases of fundraising, with funds used to, among other things:
 * Expand the the Emotiq ecosystem through educational programs;
