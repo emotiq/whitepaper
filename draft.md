@@ -109,15 +109,15 @@ Emotiq features smart contracts understandable by humans, not machines. Ring is 
 
 A natural language approach to smart contracts will attract the millions of individuals unable to make use of Solidity, but who envision a use for the blockchain. This market is impossible to measure, but the Emotiq concept will conceivably appeal to every blockchain user, whether an enterprise, speculator, or developer. A technology’s mass-market adoption is always catalysed by its first accessible user interface. Ring is the next-generation user interface of the blockchain.
 
-## 4.2 Child tokens
+## 4.2 Oracles
+
+Smart contract creators place oracles as pre-built components into their ‘Lego box’. Developers are incentivized to create new oracles through a pay-per-transaction model (i.e., each time an oracle provides an answer, the developer of the oracle is paid). We aim to gather a library of oracle components to satisfy an ever-broadening scope for smart contracts, similar to how the Unity 3D Asset Store provides a database of 3D characters for game developers.
+
+## 4.3 Child tokens
 
 Child tokens allow ICOs and TGEs to be created and run on the Emotiq blockchain, to leverage the platform’s unique features and capabilities. These tokens are exchangeable back and forth with EMTQ through Emotiq’s built-in decentralized exchange (DEX). Child tokens provide developers with access to immense crowd-funding opportunities on a scalable platform, for example, to support the creation of distributed apps or the sale of virtual goods.
 
 It’s essential that we provide an environment for unrestricted growth, with minimal obstacles. With Emotiq’s built-in exchange, child tokens may be used and exchanged immediately. Significantly, child tokens are indirectly exchangeable for Bitcoin and Ether through cross-atomic swaps, enabling the exchange between EMTQ (for which child tokens may be exchanged) and Bitcoin/Ether.
-
-## 4.3 Oracles
-
-Smart contract creators place oracles as pre-built components into their ‘Lego box’. Developers are incentivized to create new oracles through a pay-per-transaction model (i.e., each time an oracle provides an answer, the developer of the oracle is paid). We aim to gather a library of oracle components to satisfy an ever-broadening scope for smart contracts, similar to how the Unity 3D Asset Store provides a database of 3D characters for game developers.
 
 ## 4.4 Scalability and the Network Effect
 
