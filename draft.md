@@ -135,7 +135,7 @@ Emotiq will release a technical paper (yellowpaper) with full implementation det
 
 Emotiq plans to raise $60M (million) through the combination of a private sale and a public token generation event (TGE). The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. Emotiq will generate one billion EMTQ tokens, distributed as follows:
 * 15% sold to seed contributors (completed Dec 2017);
-* 14% sold during the pre-TGE (private sale);
+* 14% sold during the private sale;
 * 36% sold during the public TGE; and
 * 35% to be held by the Emotiq team, to be used as detailed later in this section.
 
