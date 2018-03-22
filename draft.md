@@ -123,11 +123,11 @@ It’s essential that we provide an environment for unrestricted growth, with mi
 
 Emotiq, with its in-built scaling capability, easy smart contract access, and partial compatibility with Solidity, is designed to appeal to a broad spectrum of users – both those served by current solutions, but who desire more, and those that have hoped for a more scalable and easy-to-use blockchain. Its unique features and functionality will begin a ‘snowball effect’; as adoption increases, so too will its functionality (e.g., with an ever-expanding oracle asset repository).
 
-## 4.5 Token economics
+## 4.5 Token Economics
 
 The native Emotiq token (EMTQ) has deflationary economics, with the token supply slowly decreasing over time. This is accomplished by burning a fixed percentage of yearly transaction fees, with the exact mechanism be described in the upcoming technical paper. The goal is to ensure an increase in the value of the EMTQ token over time and serve as a security mechanism, to prevent attacks on the Emotiq network.
 
-## 4.6 Implementation details
+## 4.6 Implementation Details
 
 Emotiq will release a technical paper (yellowpaper) with full implementation details in the next 1-2 months.
 
