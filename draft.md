@@ -149,7 +149,7 @@ Emotiq will aggressively pursue development, acquire the best talent, and explor
 
 The private sale will raise $10M (million) from institutional and large private contributors and will follow a strict selection process. Single contributions will have a minimum of $500K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc.
 
-Tokens will be purchased in ETH, with the ETH/USD exchange rate to be determined at the end of the private sale. During the private sale, the price will be equivalent to $0.07 per token.
+Tokens will be purchased in ETH, with an ETH/USD exchange rate equal to the rate at the time of contribution. During the private sale, the price will be equivalent to $0.07 per token. The private sale will end on April 20, or when its target is reached, whichever comes first. 
 
 Emotiq will also conduct a public TGE on June 15, 2018, with the aim of raising $48M (million) at a per-token price of $0.1333. The number of EMTQ per ETH will be published 1 hour before the public TGE begins and will be based on the ETH/USD exchange rate at that time.
 
