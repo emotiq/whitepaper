@@ -145,7 +145,7 @@ Emotiq will follow strict KYC/AML procedures during both stages of fundraising, 
 * Explore the different implementations of smart contract languages and their usability, to accelerate blockchain adoption across the mass-market and enterprise; and
 * Provide venture funding for early projects on the Emotiq blockchain.
 
-Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. Its vision is ambitious, with equally ambitious goals.
+Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. The vision is ambitious, with equally ambitious goals.
 
 The private sales will raise $37M (million) from institutional and large private contributors and will follow a strict selection process. Single contributions will have a minimum of $100K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc.
 
@@ -292,9 +292,17 @@ Writer and Editor
 
 Eric is the writer and editor for Emotiq. He has deep experience researching and writing about the cryptocurrency space and blockchain technology. He is excited to help create clear and effective PR, content, copy, and communications.
 
-**Ann Söderblom**
+**Ann Söderblom** Project Manager
 
-**Luke**
+Ann is a seasoned serial entrepreneur, project manager and marketing professional. She has worked for Citibank & Holcim among other multinationals, coordinating software and operational roll-outs with global stakeholders. 
+
+Lately Ann has been the founder & manager of a Swiss Marketing company, where she managed clients, projects and a remote team to deliver high quality web & branding solutions.
+
+**Luke Gorrie** Networking developer
+
+Luke brings networking experience from the telecom industry where he has built products for the world's largest network operators and equipment vendors. He is especially interested in high-performance networking with commodity hardware and has been deeply involved in the network industry's transition to this model. 
+
+Luke has also been involved in the Common Lisp community for many years and is well known for his contributions to development tools.
 
 # 10. Legal Disclaimer
 
