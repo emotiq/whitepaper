@@ -136,7 +136,7 @@ Emotiq has released a technical paper (yellow paper) with full implementation de
 Emotiq plans to raise $39M (million) through multiple private sale rounds. The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. Emotiq will generate one billion EMTQ tokens, distributed as follows:
 * 15% sold to seed contributors (completed Dec 2017);
 * 34% sold during the private sales;
-* 37% in a token reserve for marketing and development;
+* 37% to be held in reserve for marketing and development;
 * 10% to be held by the Emotiq team;
 
 Emotiq will follow strict KYC/AML procedures during both stages of fundraising, with funds used to, among other things:
