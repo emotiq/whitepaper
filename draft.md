@@ -166,6 +166,7 @@ Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the 
 ## Q1/2018
 
 **Seed round**
+
 **First round private sale**
 
 **Blockchain prototype:**
@@ -180,6 +181,7 @@ Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the 
 ## Q2/2018
 
 **Second round private sale**
+
 **Third round private sale**
 
 **Testnet:**
