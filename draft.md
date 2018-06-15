@@ -291,7 +291,7 @@ Writer and Editor
 
 Eric is the writer and editor for Emotiq. He has deep experience researching and writing about the cryptocurrency space and blockchain technology. He is excited to help create clear and effective PR, content, copy, and communications.
 
-**Ann Söderblom** Project Manager
+**Ann Söderblom** Marketing
 
 Ann is a seasoned serial entrepreneur, project manager and marketing professional. She has worked for Citibank & Holcim among other multinationals, coordinating software and operational roll-outs with global stakeholders. 
 
