@@ -276,7 +276,7 @@ Senior Software Architect
 
 Ever since cobbling together a distributed system to process data reduction on unused nighttime nodes of the Cornell astronomy network in the late 1980s, Mark Evenson has been involved in plumbing the depths of what is possible to compute across the Internet. From modeling multi-party business process execution orchestration in description logic to hot-patching the hosting infrastructure for surging web traffic across the Western hemisphere, his work has repeatedly combined a future sketched by academic wizardry with the needs of the pragmatic now. He is excited to solve the problems inherent in developing and deploying a decentralized, planetary-scale sharded ledger.
 
-**Luke Gorrie** Networking developer
+**Luke Gorrie** Networking Developer
 
 Luke brings networking experience from the telecom industry where he has built products for the world's largest network operators and equipment vendors. He is especially interested in high-performance networking with commodity hardware and has been deeply involved in the network industry's transition to this model. 
 
