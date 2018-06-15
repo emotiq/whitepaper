@@ -149,12 +149,19 @@ Emotiq will follow strict KYC/AML procedures during both stages of fundraising, 
 
 Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. The Emotiq vision is ambitious, with equally ambitious goals.
 
-Tokens will be purchased in ETH, with an ETH/USD exchange rate equal to the rate at the time of contribution. Each private sale round will have different token prices.
+Tokens will be purchased in ETH, with an ETH/USD exchange rate equal to the rate at the time of contribution. Each private sale round will have different token prices and lockup periods.
+
+| Token round         	| Tokens Issued in Round  	| % Tokens 	| Token release start    	| Token release schedule (from start)         	|   	|
+|---------------------	|-------------------------	|----------	|------------------------	|---------------------------------------------	|---	|
+| Seed                	| 150,000,000             	| 15.00    	| 3 months after mainnet 	| 12.5% monthly, over 8 months                	|   	|
+| Private Sale Tier 1 	| 140,000,000             	| 14.00    	| 1 month after mainnet  	| 50% immediately. 10% monthly, over 5 months 	|   	|
+| Private Sale Tier 2 	| 60,000,000              	| 6.00     	| 1 month after mainnet  	| 70% immediately. 10% monthly, over 3 months 	|   	|
+| Private Sale Tier 3 	| 139,000,000             	| 13.90    	| 1 month after mainnet  	| 76% immediately. 8% monthly, over 3 months  	|   	|
+| Private Sale Tier 4 	| 23,500,000              	| 2.35     	| Immediate              	| No lockup                                   	|   	|
+|                     	| 512,500,000             	| 51.25    	|                        	|                   
 
 * Team tokens will be locked up for 18 months.
 * Emotiq will set aside a token reserve which will be 100% used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
-* There is a 12-month lockup for seed contributors.
-* There are tiered lockups for the first three rounds of private sale.
 * Any tokens unsold after the private sales will be kept in reserve by Emotiq, to be used for future funding needs.
 
 Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the end of 2018. Emotiq will endeavor to ensure that the EMTQ tokens will be listed on third-party exchanges. Listing on exchanges is beyond the control of Emotiq, however, and cannot be guaranteed.
