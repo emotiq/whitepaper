@@ -20,7 +20,7 @@ Blockchain technology has three main challenges, for which we provide three solu
 
 **Privacy**. A trustless environment and anonymity are similarly essential to the wider adoption and use of the blockchain. We have a natural desire to keep our finances and transactions private. Emotiq is inspired by Monero and ZeroCash to provide additional privacy solutions, for example, by keeping transaction amounts hidden.
 
-**Usability**. Smart contracts are inaccessible for the majority of users. They’re difficult to use, hard to read, and impossible to write without the risk of introducing new security holes (as shown by the widely publicized hacks of Ethereum). It is impossible to understand the behavior of current smart contracts without using a computer to evaluate them. Legal contracts, in contrast, can be easily read and understood.
+**Utility**. Smart contracts are inaccessible for the majority of users. They’re difficult to use, hard to read, and impossible to write without the risk of introducing new security holes (as shown by the widely publicized hacks of Ethereum). It is impossible to understand the behavior of current smart contracts without using a computer to evaluate them. Legal contracts, in contrast, can be easily read and understood.
 
 There are two sets of people: those who program by trade and those who program by necessity. The first set is small and well-served by existing smart contract languages that are modeled on programming languages, e.g., JavaScript. The second set dwarfs the first, however, and requires a completely different approach, i.e., smart contracts that can be read and understood without the need of a computer to evaluate them. Emotiq targets this second group and delivers a truly scalable blockchain with privacy features and easy-to-create applications.
 
@@ -65,7 +65,7 @@ While non-interactive zero-knowledge proofs do not prevent such transaction grap
 
 Emotiq reimagines the role of smart contracts. Smart contracts are computer programs that detail the conditions under which a transaction or transfer of tokens will occur, and executes them accordingly. They are the user interface of the blockchain. These computers programs are only readable by computers, however, not humans. On Ethereum, for example, a developer with expertise in Solidity is required to write a smart contract, and even an exceptionally skilled developer may make fatal security mistakes doing so.
 
-This paradigm limits the usefulness of smart contracts and imposes a ceiling on their accessibility. Through Ring, the Emotiq smart contract language, we offer a ground-breaking solution for non-programmers and those obliged to program by necessity. We add a ‘natural language’ layer to make smart contracts readable and usable by humans. Ring, in other words, is smart contracts in plain English.
+This paradigm limits the usefulness of smart contracts and imposes a ceiling on their accessibility. Through Ring, the Emotiq smart contract language, we offer a ground-breaking solution for non-programmers and those obliged to program by necessity. We add a "natural language" layer to make smart contracts readable and usable by humans. Ring is smart contracts in plain English.
 
 ### Child Tokens
 
@@ -111,7 +111,7 @@ A natural language approach to smart contracts will attract the millions of indi
 
 ## 4.2 Oracles
 
-Smart contract creators place oracles as pre-built components into their ‘Lego box’. Developers are incentivized to create new oracles through a pay-per-transaction model (i.e., each time an oracle provides an answer, the developer of the oracle is paid). We aim to gather a library of oracle components to satisfy an ever-broadening scope for smart contracts, similar to how the Unity 3D Asset Store provides a database of 3D characters for game developers.
+Smart contract creators place oracles as pre-built components into their "Lego box." Developers are incentivized to create new oracles through a pay-per-transaction model (i.e., each time an oracle provides an answer, the developer of the oracle is paid). We aim to gather a library of oracle components to satisfy an ever-broadening scope for smart contracts, similar to how the Unity 3D Asset Store provides a database of 3D characters for game developers.
 
 ## 4.3 Child tokens
 
@@ -129,15 +129,15 @@ The native Emotiq token (EMTQ) has deflationary economics, with the token supply
 
 ## 4.6 Implementation Details
 
-Emotiq will release a technical paper (yellowpaper) with full implementation details in the next 1-2 months.
+Emotiq has released a technical paper (yellow paper) with full implementation details, available on the website.
 
 # 5. Token Generation Event
 
-Emotiq plans to raise $60M (million) through the combination of a private sale and a public token generation event (TGE). The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. Emotiq will generate one billion EMTQ tokens, distributed as follows:
+Emotiq plans to raise $39M (million) through multiple private sale rounds. The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. Emotiq will generate one billion EMTQ tokens, distributed as follows:
 * 15% sold to seed contributors (completed Dec 2017);
-* 14% sold during the private sale;
-* 36% sold during the public TGE; and
-* 35% to be held by the Emotiq team, to be used as detailed later in this section.
+* 34% sold during the private sales;
+* 37% to be held in reserve for marketing and development;
+* 10% to be held by the Emotiq team;
 
 Emotiq will follow strict KYC/AML procedures during both stages of fundraising, with funds used to, among other things:
 * Expand the the Emotiq ecosystem through educational programs;
@@ -145,29 +145,29 @@ Emotiq will follow strict KYC/AML procedures during both stages of fundraising, 
 * Explore the different implementations of smart contract languages and their usability, to accelerate blockchain adoption across the mass-market and enterprise; and
 * Provide venture funding for early projects on the Emotiq blockchain.
 
-Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. Its vision is ambitious, with equally ambitious goals.
+Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. The vision is ambitious, with equally ambitious goals.
 
-The private sale will raise $10M (million) from institutional and large private contributors and will follow a strict selection process. Single contributions will have a minimum of $500K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc.
+The private sales will raise $37M (million) from institutional and large private contributors and will follow a strict selection process. Single contributions will have a minimum of $100K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc.
 
-Tokens will be purchased in ETH, with an ETH/USD exchange rate equal to the rate at the time of contribution. During the private sale, the price will be equivalent to $0.07 per token. The private sale will end on April 20, or when its target is reached, whichever comes first. 
+Tokens will be purchased in ETH, with an ETH/USD exchange rate equal to the rate at the time of contribution. Each private sale round will have different token prices.
 
-Emotiq will also conduct a public TGE on June 15, 2018, with the aim of raising $48M (million) at a per-token price of $0.1333. The number of EMTQ per ETH will be published 1 hour before the public TGE begins and will be based on the ETH/USD exchange rate at that time.
-
-Combined, the private sale and public TGE are intended to raise $60M.
+Combined, the seed round and private sales are intended to raise $39M.
 
 * Team tokens will be locked up for 18 months.
 * Emotiq will set aside a token reserve which will be 100% used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
-* There will be a 12-month lockup for seed contributors.
-* There will be a 6-month lockup for 50% of private sale contributor tokens.
-* Any tokens unsold after the private sale or public TGE will be kept in reserve by Emotiq, to be used for future funding needs.
+* There is a 12-month lockup for seed contributors.
+* There are tiered lockups for the first three rounds of private sale.
+* Any tokens unsold after the private sales will be kept in reserve by Emotiq, to be used for future funding needs.
 
-Emotiq will set up a temporary ERC20 token within 30-60 days after concluding the public TGE. All lockup periods will start from the time that the temporary ERC20 token is released. Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the end of 2018, at which point the temporary ERC20 token will be converted to EMTQ, the native Emotiq token. Emotiq will endeavor to ensure that both the temporary ERC20 and the EMTQ tokens will be listed on third-party exchanges. Listing on exchanges is beyond the control of Emotiq, however, and cannot be guaranteed.
+Emotiq intends to launch a testnet in the summer of 2018 and the mainnet at the end of 2018. Emotiq will endeavor to ensure that the EMTQ tokens will be listed on third-party exchanges. Listing on exchanges is beyond the control of Emotiq, however, and cannot be guaranteed.
 
 # 6. Roadmap
 
 ## Q1/2018
 
-**Private sale**
+**Seed round**
+
+**First round private sale**
 
 **Blockchain prototype:**
 
@@ -180,7 +180,9 @@ Emotiq will set up a temporary ERC20 token within 30-60 days after concluding th
 
 ## Q2/2018
 
-**Public TGE**
+**Second round private sale**
+
+**Third round private sale**
 
 **Testnet:**
 
@@ -195,6 +197,8 @@ Emotiq will set up a temporary ERC20 token within 30-60 days after concluding th
 * UI console
 
 ## Q3/2018
+
+**Fourth round private sale**
 
 **Testnet improvements:**
 
@@ -228,7 +232,7 @@ Emotiq’s development will continue – and accelerate – beyond launch.
 * **World-class research team**. We will build an in-house team of top Ph.Ds and industry leaders in distributed computing and cryptography, and collaborate with world-class universities to access, develop, and implement cutting-edge research.
 * **Emotiq University**. We will develop a comprehensive blockchain education and developer marketing program to expand the ecosystem and facilitate building applications on top of the Emotiq platform.
 * **Enterprise**. Emotiq will provide the tools for the development of secure and scalable enterprise applications.
-* **Everything else**. We will not stop until Emotiq is the most powerful, scalable, and accessible blockchain. With formidable foundations, the future is bright.
+* **Above and Beyond**. We will not stop until Emotiq is the most powerful, scalable, and accessible blockchain. With a formidable foundation, the future is bright.
 
 # 8. Conclusion
 
@@ -241,62 +245,69 @@ Emotiq is private, scalable, and natural. Research-backed and supported by a tea
 **Joel Reymont**
 CEO, The Buck Stops With Me!
 
-Joel is a seasoned hacker and blockchain pioneer.  He started his career on Wall Street and brings twenty-five years of diverse software engineering and management experience to Emotiq.  Joel was previously Chief Technology Officer at a Top 100 cryptocurrency and blockchain company, where he earned a reputation within the community for his fearsome execution power.  Joel has acted as Director of Prime Brokerage Technology at Deutsche Bank, has run offshore development teams, and has built many scalable and fault tolerant systems over the years.  He now smashes technological boundaries and ventures deep into the unexplored frontiers of crypto to bring unique opportunities to Emotiq contributors.
+Joel is a seasoned hacker and blockchain pioneer. He started his career on Wall Street and brings twenty-five years of diverse software engineering and management experience to Emotiq. Joel was previously Chief Technology Officer at a Top 100 cryptocurrency and blockchain company, where he earned a reputation within the community for his fearsome execution power. Joel has acted as Director of Prime Brokerage Technology at Deutsche Bank, has run offshore development teams, and has built many scalable and fault tolerant systems over the years. He now smashes technological boundaries and ventures deep into the unexplored frontiers of crypto to bring unique opportunities to Emotiq contributors.
 
 **Vladimir Lebedev**
 VP of Engineering
 
-Vladimir has over twenty-five years of experience in managing technology in fintech, telecom, and media companies. His pioneering credits include creating the first FidoNet node in Soviet Union, the first remote banking application using asymmetric keys cryptography in Russia, and the first ISP in Western Siberia. Vladimir was CTO of the Russian stock exchange, where he created its trading system and network infrastructure. Vladimir has held executive roles at VEON (a telecom company with over two hundred millions subscribers), Sberbank (the biggest bank in Eastern Europe), Moscow City Telephone Network, Orange Business Services, Lucent Technologies, and Mail.Ru Group (the biggest Internet-media company in Russia).  Over his career, he has led and successfully delivered many cutting-edge projects, in addition to launching his own companies, CPM and Cybertonica.
+Vladimir has over twenty-five years of experience in managing technology in fintech, telecom, and media companies. His pioneering credits include creating the first FidoNet node in Soviet Union, the first remote banking application using asymmetric keys cryptography in Russia, and the first ISP in Western Siberia. Vladimir was CTO of the Russian stock exchange, where he created its trading system and network infrastructure. Vladimir has held executive roles at VEON (a telecom company with over two hundred millions subscribers), Sberbank (the biggest bank in Eastern Europe), Moscow City Telephone Network, Orange Business Services, Lucent Technologies, and Mail.Ru Group (the biggest Internet-media company in Russia). Over his career, he has led and successfully delivered many cutting-edge projects, in addition to launching his own companies, CPM and Cybertonica.
 
 **David McClain, PhD**
 Chief Rocket Scientist
 
-David is literally a rocket scientist.  Trained in theoretical and observational astrophysics, in addition to computer science, he brings an incomparable and extraordinary five decades of unique programming expertise to the table.  David has served as a Principal Scientist in the aerospace industry where he built airborne LIDAR systems for underwater mine detection, and was a Senior Scientist on the Raytheon ExoAtmospheric Kill Vehicle (EKV) program.  He is a true expert in numerous computer languages, including Lisp, and an authority on signal processing, image processing, guidance and navigation, radio-frequency and infrared target detection systems, and target tracking.  He has twice addressed the European Common Lisp Meeting.
+David is literally a rocket scientist. Trained in theoretical and observational astrophysics, in addition to computer science, he brings an incomparable and extraordinary five decades of unique programming expertise to the table. David has served as a Principal Scientist in the aerospace industry where he built airborne LIDAR systems for underwater mine detection, and was a Senior Scientist on the Raytheon ExoAtmospheric Kill Vehicle (EKV) program. He is a true expert in numerous computer languages, including Lisp, and an authority on signal processing, image processing, guidance and navigation, radio-frequency and infrared target detection systems, and target tracking. He has twice addressed the European Common Lisp Meeting.
 
 **Shannon Spires**
 Agent Hacker
 
-Shannon is a systems engineer who enjoys working on multidisciplinary projects.  He spent much of his career as a research engineer at a national laboratory in the US, where he worked on a variety of applied research projects.  He was the Chief Developer of several technologies, including robotic teleoperation controls, real time FPGA-based video signal processors, and intelligent electric power conversion devices.  Much of Shannon’s work has been focused on distributed agent-based systems.  His areas of expertise include machine learning, AI, Common Lisp programming, functional languages, cyber security, and data mining.  His research interests include the design of systems with inherent security and robustness, and navigation and categorization in ultra-large graph-based data sets with decentralized semi-autonomous agents.
+Shannon is a systems engineer who enjoys working on multidisciplinary projects. He spent much of his career as a research engineer at a national laboratory in the US, where he worked on a variety of applied research projects. He was the Chief Developer of several technologies, including robotic teleoperation controls, real time FPGA-based video signal processors, and intelligent electric power conversion devices. Much of Shannon’s work has been focused on distributed agent-based systems. His areas of expertise include machine learning, AI, Common Lisp programming, functional languages, cyber security, and data mining. His research interests include the design of systems with inherent security and robustness, and navigation and categorization in ultra-large graph-based data sets with decentralized semi-autonomous agents.
 
 **Paul Tarvydas**
 Electronics and Microprocessor Guru
 
-Paul’s career has spanned three decades of working in microprocessor electronics, compiler and operating system design, and running his own highly-successful software consultancy.  He has taken part in projects with companies such as IBM Canada, Mitel Corp, Cognos, and several start-ups, including Design Recovery Inc., Innovative Systems Group, JetLetter, Sable Technologies, and Alacrity Inc.  Paul has written papers for the ACM and IEEE on techniques for optimizing concurrency, and has open-sourced his work on converting diagrams to code using AI techniques.  Paul’s research interests include software engineering, visual languages, diagrammatic languages, and reactive software. 
+Paul’s career has spanned three decades of working in microprocessor electronics, compiler and operating system design, and running his own highly-successful software consultancy. He has taken part in projects with companies such as IBM Canada, Mitel Corp, Cognos, and several start-ups, including Design Recovery Inc., Innovative Systems Group, JetLetter, Sable Technologies, and Alacrity Inc. Paul has written papers for the ACM and IEEE on techniques for optimizing concurrency, and has open-sourced his work on converting diagrams to code using AI techniques. Paul’s research interests include software engineering, visual languages, diagrammatic languages, and reactive software. 
 
 **Mark David**
 Senior Software Architect
 
-Mark brings over twenty-five years of professional Lisp programming experience to Emotiq.  He is a seasoned results-oriented software developer, architect, and technology leader with decades of hands-on entrepreneurial, technical, and management expertise in advanced software and product development.  Mark was a cofounder of Gensym and a co-architect of its main product, G2, one of the most commercially successful AI/Expert Systems products of all time. In recent years, he has worked as a software developer and architect on many innovative projects, including an airline reservations system, a portable Internet satellite terminal, and a natural language understanding system.
+Mark brings over twenty-five years of professional Lisp programming experience to Emotiq. He is a seasoned results-oriented software developer, architect, and technology leader with decades of hands-on entrepreneurial, technical, and management expertise in advanced software and product development. Mark was a cofounder of Gensym and a co-architect of its main product, G2, one of the most commercially successful AI/Expert Systems products of all time. In recent years, he has worked as a software developer and architect on many innovative projects, including an airline reservations system, a portable Internet satellite terminal, and a natural language understanding system.
 
 **Mark Evenson**
 Senior Software Architect
 
-Ever since cobbling together a distributed system to process data reduction on unused nighttime nodes of the Cornell astronomy network in the late 1980s, Mark Evenson has been involved in plumbing the depths of what is possible to compute across the Internet.  From modeling multi-party business process execution orchestration in description logic to hot-patching the hosting infrastructure for surging web traffic across the Western hemisphere, his work has repeatedly combined a future sketched by academic wizardry with the needs of the pragmatic now.  He is excited to solve the problems inherent in developing and deploying a decentralized, planetary-scale sharded ledger.
-
-**Kieran Costello**
-Chief Wordsmith
-
-Kieran has written for the market’s leading tech companies and start-ups, and has been a core contributor to numerous ground-breaking blockchain projects. As a writer by habit and trade, he specializes in creating stories and brand identities for ‘edge companies’ – those innovating in uncharted spaces and offering new solutions to legacy problems. This naturally led him to focus on blockchain-based solutions, and specifically to Emotiq.
-
-**Emma Cooper**
-Global Community Manager
-
-Emma is the Community Manager for Emotiq.  Prior to joining the team, Emma worked for many years in front-line counterterrorism for the US Department of Homeland Security, before which she was a lawyer in the US, focusing primarily on private placements and corporate law.
+Ever since cobbling together a distributed system to process data reduction on unused nighttime nodes of the Cornell astronomy network in the late 1980s, Mark Evenson has been involved in plumbing the depths of what is possible to compute across the Internet. From modeling multi-party business process execution orchestration in description logic to hot-patching the hosting infrastructure for surging web traffic across the Western hemisphere, his work has repeatedly combined a future sketched by academic wizardry with the needs of the pragmatic now. He is excited to solve the problems inherent in developing and deploying a decentralized, planetary-scale sharded ledger.
 
 **Anna Movchaniuk**
 PR Maven
 
-Anna is a proactive, dedicated, and detail-oriented corporate communications practitioner with extensive public relations experience in Europe and Canada.  She has worked on projects in industries as diverse as finance, sporting events, and film.
+Anna is a proactive, dedicated, and detail-oriented corporate communications practitioner with extensive public relations experience in Europe and Canada. She has worked on projects in industries as diverse as finance, sporting events, and film.
 
 **Wen Qiang**
 China Community Manager
 
 Wen is the China Community Manager for Emotiq. With a deep knowledge of the Chinese cryptocurrency space and thorough understanding of blockchain projects, he provides the Emotiq team with expert regional advice, in addition to offering Chinese language support across all of Emotiq's social media channels.
 
+**Eric Yao**
+Writer and Editor
+
+Eric is the writer and editor for Emotiq. He has deep experience researching and writing about the cryptocurrency space and blockchain technology. He is excited to help create clear and effective PR, content, copy, and communications.
+
+**Ann Söderblom** Project Manager
+
+Ann is a seasoned serial entrepreneur, project manager and marketing professional. She has worked for Citibank & Holcim among other multinationals, coordinating software and operational roll-outs with global stakeholders. 
+
+Lately Ann has been the founder & manager of a Swiss Marketing company, where she managed clients, projects and a remote team to deliver high quality web & branding solutions.
+
+**Luke Gorrie** Networking developer
+
+Luke brings networking experience from the telecom industry where he has built products for the world's largest network operators and equipment vendors. He is especially interested in high-performance networking with commodity hardware and has been deeply involved in the network industry's transition to this model. 
+
+Luke has also been involved in the Common Lisp community for many years and is well known for his contributions to development tools.
+
 # 10. Legal Disclaimer
 
-No part of this white paper constitutes legal, financial, business, or tax advice, and you should consult your own legal, financial, tax, or other professional adviser before engaging in any activity in connection herewith.  Emotiq AG (“Emotiq”), its affiliates, and the Emotiq team members shall not be liable for any kind of direct or indirect damage, loss, or liability whatsoever which you may suffer or incur in connection with accessing this white paper or any other materials published by Emotiq.  There is no official translation of this white paper from its original English, and recipients of foreign language translations are strongly cautioned that any information contained therein may conflict with the information in this white paper.
+No part of this white paper constitutes legal, financial, business, or tax advice, and you should consult your own legal, financial, tax, or other professional adviser before engaging in any activity in connection herewith. Emotiq AG (“Emotiq”), its affiliates, and the Emotiq team members shall not be liable for any kind of direct or indirect damage, loss, or liability whatsoever which you may suffer or incur in connection with accessing this white paper or any other materials published by Emotiq. There is no official translation of this white paper from its original English, and recipients of foreign language translations are strongly cautioned that any information contained therein may conflict with the information in this white paper.
 
 By accessing this white paper or any part thereof, you represent and warrant to Emotiq, its affiliates, and the Emotiq team that you acknowledge, understand, and agree that: (a) the EMTQ tokens (the “Tokens”) described herein may have no value, there is no guarantee or representation of future value or liquidity for the Tokens, and the Tokens are not intended for speculative investment; (b) Emotiq, its affiliates, and the Emotiq team members shall not be responsible for or liable for the value of the Tokens, the transferability and/or liquidity of the Tokens, and/or the availability of any market for the Tokens through third parties or otherwise; (c) in any decision to acquire Tokens, you have not relied on any statement set out in this white paper; (d) you will and shall at your own expense ensure compliance with all laws, regulatory requirements and restrictions applicable to you; (e) the information contained herein shall be subject solely to Swiss law, and the place of jurisdiction shall be Zug, Switzerland; (f) Emotiq, its affiliates, and the Emotiq team, as a result of future applicable law, decree, regulation, treaty, or administrative act, may be restricted or limited to hold a token generation event (“TGE”) or any similar event as currently planned, and may elect, at their discretion, to issue Tokens through or by a legal entity other than Emotiq; (g) Emotiq, its affiliates, and the Emotiq team may be prohibited from offering any Tokens at either the TGE or in a secondary market to certain jurisdictions and their subjects, and may have to restrict trading of the Tokens on certain trading platforms as a result of applicable law, decree, regulation, treaty, or administrative act; and (h) you may not be eligible to acquire any Tokens if you are a citizen, national, resident (tax or otherwise), domiciliary and/or green card holder of a geographic area or country where it is likely that the sale or distribution of the Tokens would be construed as the sale of a security (howsoever named) or investment product, and/or in which access to or participation in any token distribution event or the Emotiq platform is prohibited by applicable law, decree, regulation, treaty, or administrative act.
 
-This white paper shall not be construed to be an invitation or solicitation to enter into an investment or participate in the sale of a security (howsoever named) or investment product in any jurisdiction.  The information in this white paper is given for general illustrative and discussion purposes only, and Emotiq does not provide any warranty as to the accuracy and completeness of this information.  Emotiq reserves the right to change the information contained herein at its sole discretion.  The information set out in this white paper is not legally binding upon Emotiq, its affiliates, and the Emotiq team members. The agreement for any issuance or distribution of the Tokens shall be governed by a separate agreement setting out the terms and conditions thereof.  In the event of any inconsistencies between such an agreement and this whitepaper, the terms and conditions of the agreement shall prevail.
+This white paper shall not be construed to be an invitation or solicitation to enter into an investment or participate in the sale of a security (howsoever named) or investment product in any jurisdiction. The information in this white paper is given for general illustrative and discussion purposes only, and Emotiq does not provide any warranty as to the accuracy and completeness of this information. Emotiq reserves the right to change the information contained herein at its sole discretion. The information set out in this white paper is not legally binding upon Emotiq, its affiliates, and the Emotiq team members. The agreement for any issuance or distribution of the Tokens shall be governed by a separate agreement setting out the terms and conditions thereof. In the event of any inconsistencies between such an agreement and this whitepaper, the terms and conditions of the agreement shall prevail.
