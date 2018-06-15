@@ -133,13 +133,16 @@ Emotiq has released a technical paper (yellow paper) with full implementation de
 
 # 5. Token Generation Event
 
-Emotiq plans to raise $39M (million) through multiple private sale rounds. The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. Emotiq will generate one billion EMTQ tokens, distributed as follows:
-* 51.3% sold to the public;
-* 16.8% development;
+Emotiq will generate a total of 1,000,000,000 EMTQ and sell 51.25% of tokens to raise $39M (million). The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. 
+
+Tokens will be allocated as follows:
+
+* 51.25% sold to the public;
+* 16.75% development;
 * 10% marketing & ecosystem;
 * 10% reserve;
 * 10% team;
-* 2% advisors
+* 2% advisors and key backers
 
 Emotiq will follow strict KYC/AML procedures during both stages of fundraising, with funds used to, among other things:
 * Expand the the Emotiq ecosystem through educational programs;
@@ -149,16 +152,7 @@ Emotiq will follow strict KYC/AML procedures during both stages of fundraising, 
 
 Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. The Emotiq vision is ambitious, with equally ambitious goals.
 
-Tokens will be purchased in ETH, with an ETH/USD exchange rate equal to the rate at the time of contribution. Each private sale round will have different token prices and lockup periods.
-
-| Token round         	| Tokens Issued in Round  	| % Tokens 	| Token release start    	| Token release schedule (from start)         	|   	|
-|---------------------	|-------------------------	|----------	|------------------------	|---------------------------------------------	|---	|
-| Seed                	| 150,000,000             	| 15.00    	| 3 months after mainnet 	| 12.5% monthly, over 8 months                	|   	|
-| Private Sale Tier 1 	| 140,000,000             	| 14.00    	| 1 month after mainnet  	| 50% immediately. 10% monthly, over 5 months 	|   	|
-| Private Sale Tier 2 	| 60,000,000              	| 6.00     	| 1 month after mainnet  	| 70% immediately. 10% monthly, over 3 months 	|   	|
-| Private Sale Tier 3 	| 139,000,000             	| 13.90    	| 1 month after mainnet  	| 76% immediately. 8% monthly, over 3 months  	|   	|
-| Private Sale Tier 4 	| 23,500,000              	| 2.35     	| Immediate              	| No lockup                                   	|   	|
-|                     	| 512,500,000             	| 51.25    	|                        	|                   
+Tokens will be purchased in ETH, with an ETH/USD exchange rate equal to the rate at the time of contribution.
 
 * Team tokens will be locked up for 18 months.
 * Emotiq will set aside a token reserve which will be 100% used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
