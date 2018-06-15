@@ -298,6 +298,13 @@ China Community Manager
 
 Wen is the China Community Manager for Emotiq. With a deep knowledge of the Chinese cryptocurrency space and thorough understanding of blockchain projects, he provides the Emotiq team with expert regional advice, in addition to offering Chinese language support across all of Emotiq's social media channels.
 
+**Batyrkhan Zhaparov**
+English/Russian/Chinese Community manager
+
+Batyrkhan is an experienced multicultural community manager. He started his career from the mobile gaming industry in China where he mainly collaborated with Asian gaming development companies.
+
+After redirecting into blockchain field, he managed to work with several crypto projects and has been gaining plenty of relevant experience and knowledge.
+
 **Eric Yao**
 Writer and Editor
 
