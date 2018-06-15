@@ -276,6 +276,18 @@ Senior Software Architect
 
 Ever since cobbling together a distributed system to process data reduction on unused nighttime nodes of the Cornell astronomy network in the late 1980s, Mark Evenson has been involved in plumbing the depths of what is possible to compute across the Internet. From modeling multi-party business process execution orchestration in description logic to hot-patching the hosting infrastructure for surging web traffic across the Western hemisphere, his work has repeatedly combined a future sketched by academic wizardry with the needs of the pragmatic now. He is excited to solve the problems inherent in developing and deploying a decentralized, planetary-scale sharded ledger.
 
+**Luke Gorrie** Networking developer
+
+Luke brings networking experience from the telecom industry where he has built products for the world's largest network operators and equipment vendors. He is especially interested in high-performance networking with commodity hardware and has been deeply involved in the network industry's transition to this model. 
+
+Luke has also been involved in the Common Lisp community for many years and is well known for his contributions to development tools.
+
+**Ann Söderblom** Marketing Queen
+
+Ann is a seasoned serial entrepreneur, project manager and marketing professional. She has worked for Citibank & Holcim among other multinationals, coordinating software and operational roll-outs with global stakeholders. 
+
+Lately Ann has been the founder & manager of a Swiss Marketing company, where she managed clients, projects and a remote team to deliver high quality web & branding solutions.
+
 **Anna Movchaniuk**
 PR Maven
 
@@ -290,18 +302,6 @@ Wen is the China Community Manager for Emotiq. With a deep knowledge of the Chin
 Writer and Editor
 
 Eric is the writer and editor for Emotiq. He has deep experience researching and writing about the cryptocurrency space and blockchain technology. He is excited to help create clear and effective PR, content, copy, and communications.
-
-**Ann Söderblom** Marketing
-
-Ann is a seasoned serial entrepreneur, project manager and marketing professional. She has worked for Citibank & Holcim among other multinationals, coordinating software and operational roll-outs with global stakeholders. 
-
-Lately Ann has been the founder & manager of a Swiss Marketing company, where she managed clients, projects and a remote team to deliver high quality web & branding solutions.
-
-**Luke Gorrie** Networking developer
-
-Luke brings networking experience from the telecom industry where he has built products for the world's largest network operators and equipment vendors. He is especially interested in high-performance networking with commodity hardware and has been deeply involved in the network industry's transition to this model. 
-
-Luke has also been involved in the Common Lisp community for many years and is well known for his contributions to development tools.
 
 # 10. Legal Disclaimer
 
