@@ -20,7 +20,7 @@ Blockchain technology has three main challenges, for which we provide three solu
 
 **Privacy**. A trustless environment and anonymity are similarly essential to the wider adoption and use of the blockchain. We have a natural desire to keep our finances and transactions private. Emotiq is inspired by Monero and ZeroCash to provide additional privacy solutions, for example, by keeping transaction amounts hidden.
 
-**Utility**. Smart contracts are inaccessible for the majority of users. They’re difficult to use, hard to read, and impossible to write without the risk of introducing new security holes (as shown by the widely publicized hacks of Ethereum). It is impossible to understand the behavior of current smart contracts without using a computer to evaluate them. Legal contracts, in contrast, can be easily read and understood.
+**Usability**. Smart contracts are inaccessible for the majority of users. They’re difficult to use, hard to read, and impossible to write without the risk of introducing new security holes (as shown by the widely publicized hacks of Ethereum). It is impossible to understand the behavior of current smart contracts without using a computer to evaluate them. Legal contracts, in contrast, can be easily read and understood.
 
 There are two sets of people: those who program by trade and those who program by necessity. The first set is small and well-served by existing smart contract languages that are modeled on programming languages, e.g., JavaScript. The second set dwarfs the first, however, and requires a completely different approach, i.e., smart contracts that can be read and understood without the need of a computer to evaluate them. Emotiq targets this second group and delivers a truly scalable blockchain with privacy features and easy-to-create applications.
 
@@ -134,10 +134,12 @@ Emotiq has released a technical paper (yellow paper) with full implementation de
 # 5. Token Generation Event
 
 Emotiq plans to raise $39M (million) through multiple private sale rounds. The fundraising target has been carefully selected to enable us to reach our development milestones and jumpstart the Emotiq ecosystem. Emotiq will generate one billion EMTQ tokens, distributed as follows:
-* 15% sold to seed contributors (completed Dec 2017);
-* 34% sold during the private sales;
-* 37% to be held in reserve for marketing and development;
-* 10% to be held by the Emotiq team;
+* 51.3% sold to the public;
+* 16.8% development;
+* 10% marketing & ecosystem;
+* 10% reserve;
+* 10% team;
+* 2% advisors
 
 Emotiq will follow strict KYC/AML procedures during both stages of fundraising, with funds used to, among other things:
 * Expand the the Emotiq ecosystem through educational programs;
@@ -145,13 +147,9 @@ Emotiq will follow strict KYC/AML procedures during both stages of fundraising, 
 * Explore the different implementations of smart contract languages and their usability, to accelerate blockchain adoption across the mass-market and enterprise; and
 * Provide venture funding for early projects on the Emotiq blockchain.
 
-Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. The vision is ambitious, with equally ambitious goals.
-
-The private sales will raise $37M (million) from institutional and large private contributors and will follow a strict selection process. Single contributions will have a minimum of $100K (thousand) and contributors will be selected on the basis of the benefit they can bring to Emotiq and the ecosystem, e.g., promotion, publicity, exchange access, etc.
+Emotiq will aggressively pursue development, acquire the best talent, and explore new solutions. The Emotiq vision is ambitious, with equally ambitious goals.
 
 Tokens will be purchased in ETH, with an ETH/USD exchange rate equal to the rate at the time of contribution. Each private sale round will have different token prices.
-
-Combined, the seed round and private sales are intended to raise $39M.
 
 * Team tokens will be locked up for 18 months.
 * Emotiq will set aside a token reserve which will be 100% used for promotion, publicity, airdrops, community expansion, bounties, etc. as determined by the Emotiq team.
