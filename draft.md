@@ -276,13 +276,20 @@ Senior Software Architect
 
 Ever since cobbling together a distributed system to process data reduction on unused nighttime nodes of the Cornell astronomy network in the late 1980s, Mark Evenson has been involved in plumbing the depths of what is possible to compute across the Internet. From modeling multi-party business process execution orchestration in description logic to hot-patching the hosting infrastructure for surging web traffic across the Western hemisphere, his work has repeatedly combined a future sketched by academic wizardry with the needs of the pragmatic now. He is excited to solve the problems inherent in developing and deploying a decentralized, planetary-scale sharded ledger.
 
-**Luke Gorrie** Networking Developer
+**Luke Gorrie**
+Networking Developer
 
 Luke brings networking experience from the telecom industry where he has built products for the world's largest network operators and equipment vendors. He is especially interested in high-performance networking with commodity hardware and has been deeply involved in the network industry's transition to this model. 
 
 Luke has also been involved in the Common Lisp community for many years and is well known for his contributions to development tools.
 
-**Ann Söderblom** Marketing Queen
+**Eugene Chupriyanov**
+Site Reliability Engineer
+
+Eugene is the Site Reliability Engineer at Emotiq, taking care of our development and production infrastructure. Eugene has more than thirty years of experience in DevOps/SRE, beginning at the Siberian Branch of the prestigious Russian Academy of Sciences in the early days of the Internet. He has helped build and manage networking and operational infrastructure in industries as diverse as science, telecom, media, and finance, and has held Senior DevOps/SRE positions with companies including The Russian Trading System, RosBusinessConsulting, Lucent Technologies, and Vimpelcom/VEON. He brings a deep passion for information technology and is dedicated to continuously learning the latest techniques and tricks to ensure that the systems he manages operate at the peak of security and efficiency.
+
+**Ann Söderblom**
+Marketing Coordinator
 
 Ann is a seasoned serial entrepreneur, project manager and marketing professional. She has worked for Citibank & Holcim among other multinationals, coordinating software and operational roll-outs with global stakeholders. 
 
@@ -299,14 +306,14 @@ China Community Manager
 Wen is the China Community Manager for Emotiq. With a deep knowledge of the Chinese cryptocurrency space and thorough understanding of blockchain projects, he provides the Emotiq team with expert regional advice, in addition to offering Chinese language support across all of Emotiq's social media channels.
 
 **Batyrkhan Zhaparov**
-English/Russian/Chinese Community manager
+English/Russian/Chinese Community Manager
 
 Batyrkhan is an experienced multicultural community manager. He started his career from the mobile gaming industry in China where he mainly collaborated with Asian gaming development companies.
 
 After redirecting into blockchain field, he managed to work with several crypto projects and has been gaining plenty of relevant experience and knowledge.
 
 **Eric Yao**
-Writer and Editor
+In-house Writer
 
 Eric is the writer and editor for Emotiq. He has deep experience researching and writing about the cryptocurrency space and blockchain technology. He is excited to help create clear and effective PR, content, copy, and communications.
 
